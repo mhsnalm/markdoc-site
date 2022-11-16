@@ -7,8 +7,7 @@
     "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "vercel",
-    "spec": "spec-md spec/index.md > public/spec.html"
+    "deploy": "vercel"
   },
   "dependencies": {
     "@docsearch/react": "^3.1.0",
